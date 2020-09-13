@@ -1,12 +1,5 @@
-##### code by dharmendra bhagat#####
-
-<h1> <center> welcome everyone...!! </center> </h1> <br>
-<br />
-
-<pre>
+  
 <?php
-body {background-color: #92a8d1;}
-print `ifconfig`;
-
+	echo "This Webserver is deployed using the index page from github";
+	phpinfo();
 ?>
-</pre>
